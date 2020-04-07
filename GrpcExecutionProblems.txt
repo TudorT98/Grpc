@@ -1,0 +1,3 @@
+Am intampinat urmatoare eroare la executia clientului :
+
+Could not copy GrpcGreeterClient.exe to "bin\Debug\netcoreapp3.0\GrpcGreeterClient.exe".  The file is locked by: "GrpcGreeterClient (230664)
